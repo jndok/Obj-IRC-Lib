@@ -6,6 +6,3 @@ This branch is evil. Everything here doesn't work. Even `printf`s or `malloc`s d
 
 ## How to use
 **Don't!** This shit ain't working *fo' sure*, otherwise why would it be on `unstable`?!
-
-
-## How to use it
